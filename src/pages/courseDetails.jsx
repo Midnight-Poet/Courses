@@ -3,7 +3,7 @@ import { GoDownload } from 'react-icons/go';
 import { Topnav } from '../components/dashboardComponents/topnav';
 import { courseDetailsArray } from '../arrays/coursesArray/courseDetail';
 import { Section } from '../components/coursesComponents/section';
-import Video from '../assets/courses/video.png';
+import Video from '../assets/courses/Video.png';
 
 export let CourseDetails = () => {
 	return (
