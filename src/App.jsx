@@ -35,8 +35,8 @@ function App() {
 				<Routes>
 					<Route path='/' element={<Navigation />} />
 					<Route element={<PublicRoute />}>
-						<Route path='/signIn' element={<SIgnInPage />} />
-						<Route path='/signUp' element={<SIgnUpPage />} />
+						<Route path='/signin' element={<SIgnInPage />} />
+						<Route path='/signup' element={<SIgnUpPage />} />
 					</Route>
 
 					<Route element={<ProtectedRoute />}>

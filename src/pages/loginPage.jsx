@@ -14,7 +14,7 @@ export let SIgnInPage = () => {
                 switch = {'don’t have an account?'}
                 link = {'Sign Up'}
                 forget = {'Forgot password?'}
-                ref = {'/signUp'}
+                ref = {'/signup'}
             />
             <LoginDecor />
         </section>

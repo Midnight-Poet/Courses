@@ -13,7 +13,7 @@ export let SIgnUpPage = () => {
                 login = {'Sign Up'}
                 switch = {'don’t have an account?'}
                 link = {'Sign Up'}
-                ref = {'/signIn'}
+                ref = {'/signin'}
             />
             <LoginDecor />
         </section>
