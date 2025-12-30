@@ -25,7 +25,7 @@ export let ProtectedRoute = () => {
 
 	if (!data) {
 		useEffect(() => {
-			navigate('/signIn');
+			navigate('/signin');
 		});
 	}
 
