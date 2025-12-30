@@ -1,4 +1,4 @@
-import Wtheme from '../../assets/theme/ContentW.png';
+import Wtheme from '../../assets/theme/Contentw.png';
 import Btheme from '../../assets/theme/Content.png';
 
 export let Theme = () => {
